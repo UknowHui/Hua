@@ -1,1 +1,1 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UknowHui&show_icons=true&theme=cobalt&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UknowHui&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
